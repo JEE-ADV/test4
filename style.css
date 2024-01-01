@@ -1,0 +1,52 @@
+body {
+    text-align: center;
+    margin: 0%;
+}
+.menu{
+    position: auto;
+    z-index: 10;
+    width: 100%;
+    top: 0px;
+    margin-top: 0px;
+}
+.links{
+    display: inline;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-family:'Cinzel Decorative', cursive;
+    
+}
+.profile {
+    width: 350px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+}
+#welcome{
+    background: linear-gradient(#86dC3d 0%, #C5E90B 100%);
+    font-family: cursive;
+}
+#address{
+    background: linear-gradient(#86dC3d 0%, #C5E90B 100%);
+    font-family: cursive;
+}
+#hi{
+    font-family: 'Cinzel Decorative', cursive;
+}
+#results{
+    background: linear-gradient(#86dC3d 0%, #C5E90B 100%);
+    font-family: cursive;
+}
+#myCarousel img {
+    height: 300px;
+    margin-top: 35px;
+}
+#about{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(#86dC3d 0%, #C5E90B 100%);
+}
+#contact{
+    background-color: yellowgreen;
+}
+html {
+    scroll-behavior: smooth;
+}
